@@ -19,7 +19,7 @@ This tool allows you to connect to a Modbus device, read output (coil) status, t
 
 ## Screenshot
 
-![Waveshare Modbus GUI Screenshot](screenshot.png)  
+![Waveshare Modbus GUI Screenshot](Screenshot.png)  
 
 ---
 
